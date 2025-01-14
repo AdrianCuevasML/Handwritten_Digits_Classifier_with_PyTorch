@@ -100,18 +100,11 @@ A custom feedforward neural network, `EnhancedNet`, was implemented with:
 ---
 
 ## Prerequisites
-To run this project, ensure the following:
-- Python 3.8+
-- PyTorch 1.11+
-- torchvision 0.12+
-- Jupyter Notebook
-
-Install dependencies using:
+To run this project, ensure you have Python 3.8+ installed. Then, install the required dependencies by running:
 ```bash
-pip install torch torchvision notebook
+pip install -r requirements.txt
 ```
 
----
 
 ## How to Run
 1. Clone the repository:
