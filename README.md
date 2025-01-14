@@ -4,6 +4,8 @@
 
 This project demonstrates the development of a neural network using PyTorch to classify handwritten digits from the MNIST dataset. The primary goal was to achieve an accuracy of at least 90% on the test dataset, which was successfully exceeded. The project encompasses all steps from data preprocessing to model evaluation and saving, ensuring a robust and reusable solution.
 
+This project is the second project of the "AWS AI & ML Scholarship".
+
 ---
 
 ## Features
